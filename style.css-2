@@ -1108,3 +1108,12 @@ textarea.form-control {
 
 
 }
+
+
+// max-width     //
+
+
+@media(max-width: 1024px) {
+
+}
+
